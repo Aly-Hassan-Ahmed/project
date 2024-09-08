@@ -5,5 +5,11 @@ using namespace std;
 int main()
 {
     cout << "Hello world!" << endl;
-    return 0;
+
+    cout << "ali";
+
+    if ("ali" == "ali")
+        cout << "ss";
+
+     return 0;
 }
